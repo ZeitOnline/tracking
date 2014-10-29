@@ -132,6 +132,7 @@ Alle Teaserklicks auf werbliche Outgoing-Links oder Anzeigenartikel, die gemesse
 Folgende grundsätzliche Logik muss in die <id> geschrieben werden:
 [navigationstyp].[verortung].[reihe].[spalte].[subreihe].[bezeichner].[ZIEL-URL]
 
+#### Beispiel 1
 ![Beispiel 1](/images/beispiel-1.png)
 
 1. Klick auf das Bild des Teasers muss folgenden Call an Webtrekk auslösen:
@@ -141,6 +142,7 @@ Folgende grundsätzliche Logik muss in die <id> geschrieben werden:
 3. Klick auf den “mehr”-Link des Teasers muss folgenden Call an Webtrekk auslösen:
 `stationaer.teaserliste.1.links..more.marktplatz.zeit.de/urlaubsziele/beliebte-urlaubsziele/ein-ungewoehnliches-hotel-stadtrand-von-pristina/`
 
+#### Beispiel 2
 ![Beispiel 2](/images/beispiel-2.png)
 
 1. Klick auf das Bild des Teasers muss folgenden Call an Webtrekk auslösen:
