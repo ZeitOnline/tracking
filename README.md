@@ -134,18 +134,18 @@ Folgende grundsätzliche Logik muss in die <id> geschrieben werden:
 
 ![Beispiel 1](/images/beispiel-1.png)
 
-a. Klick auf das Bild des Teasers muss folgenden Call an Webtrekk auslösen:
+1. Klick auf das Bild des Teasers muss folgenden Call an Webtrekk auslösen:
 `stationaer.teaserliste.1.links..image.marktplatz.zeit.de/urlaubsziele/beliebte-urlaubsziele/ein-ungewoehnliches-hotel-stadtrand-von-pristina/`
-b. Klick auf die Überschrift des Teasers muss folgenden Call an Webtrekk auslösen:
+2. Klick auf die Überschrift des Teasers muss folgenden Call an Webtrekk auslösen:
 `stationaer.teaserliste.1.links..headline.marktplatz.zeit.de/urlaubsziele/beliebte-urlaubsziele/ein-ungewoehnliches-hotel-stadtrand-von-pristina/`
-c. Klick auf den “mehr”-Link des Teasers muss folgenden Call an Webtrekk auslösen:
+3. Klick auf den “mehr”-Link des Teasers muss folgenden Call an Webtrekk auslösen:
 `stationaer.teaserliste.1.links..more.marktplatz.zeit.de/urlaubsziele/beliebte-urlaubsziele/ein-ungewoehnliches-hotel-stadtrand-von-pristina/`
 
 ![Beispiel 2](/images/beispiel-2.png)
 
-a. Klick auf das Bild des Teasers muss folgenden Call an Webtrekk auslösen:
+1. Klick auf das Bild des Teasers muss folgenden Call an Webtrekk auslösen:
 `stationaer.neueste_angebote.1.rechts..image.marktplatz.zeit.de/urlaubsziele/urlaubsarten/von-der-loire-bis-zum-mekong/`
-b. Klick auf die Überschrift des Teasers muss folgenden Call an Webtrekk auslösen:
+2. Klick auf die Überschrift des Teasers muss folgenden Call an Webtrekk auslösen:
 `stationaer.neueste_angebote.1.rechts..headline.marktplatz.zeit.de/urlaubsziele/urlaubsarten/von-der-loire-bis-zum-mekong/`
-c.Klick auf den “mehr”-Link des Teasers muss folgenden Call an Webtrekk auslösen:
+3.Klick auf den “mehr”-Link des Teasers muss folgenden Call an Webtrekk auslösen:
 `stationaer.neueste_angebote.1.rechts..more.marktplatz.zeit.de/urlaubsziele/urlaubsarten/von-der-loire-bis-zum-mekong/`
